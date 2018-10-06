@@ -8,7 +8,7 @@ public class Main {
     }
 
     private static String getMag() {
-        return "test";
+        return "test1";
     }
 }
 
